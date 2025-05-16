@@ -7,14 +7,14 @@ The ITSI Content Pack for ISC-Bind from Presidio Splunk Solutions is specificall
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com).
 
 ## Details
 The ITSI Content Pack for ISC-Bind contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive monitoring solution for ISC-Bind DNS services.
 
 [Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Presidio Splunk Solutions' Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Splunk Products, visit our [website](https://atlas.presidio.com).
 
 ### Services
 ISC-Bind monitoring encompasses several specialized services, each targeting specific aspects of DNS performance:
@@ -117,7 +117,7 @@ To provide feedback, visit our [Github and Readme](https://www.github.com/kinney
 
 atlassupport@presidio.com
 
-For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com).
 
 ## Version History
 
